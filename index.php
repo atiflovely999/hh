@@ -1,4 +1,7 @@
-﻿<?php
+mysql select_db(ttt9.herokuapp.com)
+
+
+<?php
     @session_start();
 if(!isset($_SESSION['username']))
 {
